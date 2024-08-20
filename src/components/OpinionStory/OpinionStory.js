@@ -26,6 +26,7 @@ const Wrapper = styled.article`
   @media ${QUERIES.tabletOnly} {
     flex-direction: column;
     gap: 8px;
+    border-bottom: none;
   }
 `;
 
